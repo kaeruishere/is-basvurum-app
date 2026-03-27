@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "751446738289",
+    "project_id": "kaeru-isbasvurum",
+    "storage_bucket": "kaeru-isbasvurum.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751446738289:android:26f962eee5b639cf6062d0",
+        "android_client_info": {
+          "package_name": "com.kaeru.isbasvurumapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751446738289-jnbblbsdpd3hucsprlukccs4o5d15a86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaeru.isbasvurumapp",
+            "certificate_hash": "1555e8fb0ce7fda6492be8742e389eead2089197"
+          }
+        },
+        {
+          "client_id": "751446738289-2a0vvf6pc620mfej5fpvo4k6b3l8ttj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3FQSkydbwYUGz0OxSYVRrosUU829ihlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751446738289-2a0vvf6pc620mfej5fpvo4k6b3l8ttj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
